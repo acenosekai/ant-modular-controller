@@ -1,0 +1,27 @@
+{
+  "name": "ant-modular-controller",
+  "version": "1.0.0",
+  "description": "modular controller for express js",
+  "main": "ant-modular-controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acenosekai/ant-modular-controller.git"
+  },
+  "keywords": [
+    "hmvc",
+    "modular",
+    "expressjs"
+  ],
+  "author": "acenosekai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acenosekai/ant-modular-controller/issues"
+  },
+  "homepage": "https://github.com/acenosekai/ant-modular-controller#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
